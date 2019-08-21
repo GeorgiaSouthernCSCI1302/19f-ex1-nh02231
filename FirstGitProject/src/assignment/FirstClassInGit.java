@@ -3,8 +3,7 @@ package assignment;
 public class FirstClassInGit {
 
 	public static void main(String[] args) {
-		System.out.println("Hello World!");
-		System.out.println("Nathan Heiland");
+		System.out.println("Hello my name is Nathan Heiland!");
 		
 		//add a statement to display your name in the console
 		
